@@ -8,7 +8,7 @@ import { isRav4Hybrid } from '../lib/normalize.js';
 
 import mercadolibre from '../scrapers/mercadolibre.js';
 import chileautos from '../scrapers/chileautos.js';
-import toyotachile from '../scrapers/toyotachile.js';
+import autonauta from '../scrapers/autonauta.js';
 import kavak from '../scrapers/kavak.js';
 import facebook from '../scrapers/facebook.js';
 
@@ -16,7 +16,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT = path.join(__dirname, '..', 'docs', 'data', 'latest.json');
 const MANUAL = path.join(__dirname, '..', 'docs', 'data', 'manual.json');
 
-const SCRAPERS = [mercadolibre, chileautos, toyotachile, kavak, facebook];
+const SCRAPERS = [mercadolibre, chileautos, autonauta, kavak, facebook];
 
 async function runScraper(scraper, context) {
   const start = Date.now();

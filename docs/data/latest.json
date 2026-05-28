@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-05-28T13:48:15.256Z",
-  "elapsedMs": 14647,
+  "generatedAt": "2026-05-28T14:01:11.555Z",
+  "elapsedMs": 14159,
   "sources": [
     {
       "source": "MercadoLibre",
       "raw": 92,
-      "count": 26,
+      "count": 22,
       "error": null
     },
     {
       "source": "ChileAutos",
       "raw": 0,
       "count": 0,
-      "error": null
+      "error": "DataDome challenge — run `npm run login <chileautos URL>` to solve once"
     },
     {
-      "source": "ToyotaChile",
-      "raw": 0,
+      "source": "Autonauta",
+      "raw": 5,
       "count": 0,
       "error": null
     },
@@ -42,21 +42,9 @@
       "km": 6000,
       "year": 2026,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3789333680-toyota-rav4-25-xle-hv-at-hibrido-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=11&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-3789333680-toyota-rav4-25-xle-hv-at-hibrido-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=18&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_882885-MLC108470111026_032026-E-toyota-rav4-25-xle-hv-at-hibrido-2026.webp",
       "score": 83
-    },
-    {
-      "source": "MercadoLibre",
-      "title": "Toyota Rav4 Hv Xle Hv 2.5 Cvt At",
-      "description": "Toyota Rav4 Hv Xle Hv 2.5 Cvt At | SALFA Usados | $ | 28.290.000 | 2024 | 7.881 Km | Temuco - La Araucanía",
-      "price": 28290000,
-      "km": 7881,
-      "year": 2024,
-      "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3679222488-toyota-rav4-hv-xle-hv-25-cvt-at-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=5&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_942953-MLC107319403584_032026-E-toyota-rav4-hv-xle-hv-25-cvt-at-2024.webp",
-      "score": 71
     },
     {
       "source": "MercadoLibre",
@@ -66,7 +54,7 @@
       "km": 14231,
       "year": 2025,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1967120309-toyota-rav-4-hybrid-cvt-20-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=15&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-1967120309-toyota-rav-4-hybrid-cvt-20-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=24&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_812052-MLC110934264448_052026-E-toyota-rav-4-hybrid-cvt-20-2025.webp",
       "score": 71
     },
@@ -78,7 +66,7 @@
       "km": 52000,
       "year": 2026,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3885470214-toyota-rav-4-hybrid-25-aut-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=2&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-3885470214-toyota-rav-4-hybrid-25-aut-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=6&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_763860-MLC111112731711_052026-E-toyota-rav-4-hybrid-25-aut-2026.webp",
       "score": 62
     },
@@ -90,7 +78,7 @@
       "km": 27000,
       "year": 2023,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3824383988-toyota-rav4-xle-cvt-hev-25-aut-2023-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=4&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-3824383988-toyota-rav4-xle-cvt-hev-25-aut-2023-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=8&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_616472-MLC110277425795_042026-E-toyota-rav4-xle-cvt-hev-25-aut-2023.webp",
       "score": 62
     },
@@ -102,7 +90,7 @@
       "km": 1543,
       "year": 2026,
       "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-4023525926-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=19&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-4023525926-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=28&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_609715-MLC111309217410_052026-E-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026.webp",
       "score": 60
     },
@@ -114,7 +102,7 @@
       "km": 14444,
       "year": 2025,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1883355879-toyota-rav4-xse-25-hev-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=24&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-1883355879-toyota-rav4-xse-25-hev-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=36&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_895916-MLC108858134893_032026-E-toyota-rav4-xse-25-hev-2025.webp",
       "score": 59
     },
@@ -126,7 +114,7 @@
       "km": 5400,
       "year": 2025,
       "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-1923806739-toyota-rav4-hybrid-limited-25-4x4-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=32&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-1923806739-toyota-rav4-hybrid-limited-25-4x4-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=44&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_706888-MLC109773137244_042026-E-toyota-rav4-hybrid-limited-25-4x4-2025.webp",
       "score": 57
     },
@@ -138,7 +126,7 @@
       "km": 11288,
       "year": 2024,
       "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-3585546780-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=12&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-3585546780-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=19&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_846674-MLC107395677657_022026-E-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024.webp",
       "score": 51
     },
@@ -150,7 +138,7 @@
       "km": 52000,
       "year": 2024,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3897460872-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=34&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-3897460872-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=46&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_707904-MLC110561359086_052026-E-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024.webp",
       "score": 43
     },
@@ -162,7 +150,7 @@
       "km": 37865,
       "year": 2022,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1960127439-toyota-rav4-25-cvt-hibrida-2022-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=6&type=item&tracking_id=69dfc23b-c868-4ce6-bf87-1ea5fe5edf1b",
+      "url": "https://auto.mercadolibre.cl/MLC-1960127439-toyota-rav4-25-cvt-hibrida-2022-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=13&type=item&tracking_id=5f24a0c4-9d7e-42b5-b4ab-a9ee83ebb523",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_881804-MLC111313878150_052026-E-toyota-rav4-25-cvt-hibrida-2022.webp",
       "score": 42
     }
