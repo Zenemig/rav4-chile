@@ -8,6 +8,7 @@
     "search": "node scripts/scrape.js",
     "serve": "npx --yes serve docs -p 3000",
     "login": "node scripts/login.js",
+    "import": "node scripts/import-html.js",
     "publish": "node scripts/scrape.js && git add docs/data/latest.json docs/data/manual.json && git commit -m \"Update listings\" && git push"
   },
   "dependencies": {
