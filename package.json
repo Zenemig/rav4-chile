@@ -1,0 +1,17 @@
+{
+  "name": "rav4-chile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "playwright install chromium",
+    "search": "node scripts/scrape.js",
+    "serve": "npx --yes serve docs -p 3000",
+    "login": "node scripts/login.js",
+    "publish": "node scripts/scrape.js && git add docs/data/latest.json docs/data/manual.json && git commit -m \"Update listings\" && git push"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "playwright": "^1.49.0"
+  }
+}
