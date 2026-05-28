@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "source": "ChileAutos",
+    "title": "2023 Toyota RAV4 2.5 Hybrid Limited CVT HV 4WD",
+    "description": "Limited 4WD · OHiggins · Particular",
+    "price": 34990000,
+    "km": 19000,
+    "year": 2023,
+    "awd": true,
+    "url": "https://www.chileautos.cl/vehiculos/detalles/2023-toyota-rav4-2-5-hybrid-limited-cvt-hv-4wd/CL-AD-19621490/",
+    "image": "https://chileautos.pxcrush.net/chileautos/cars/private/21wnmdk1ydqfq5d4sijphl3jf.jpg?pxc_method=fitfill&pxc_bgtype=self&pxc_size=720,480",
+    "location": "OHiggins"
+  },
+  {
+    "source": "ChileAutos",
+    "title": "2022 Toyota RAV4 2.5 Hybrid XLE CVT HV",
+    "description": "XLE Hybrid · Valparaíso · Particular",
+    "price": 23990000,
+    "km": 70000,
+    "year": 2022,
+    "awd": false,
+    "url": "https://www.chileautos.cl/vehiculos/detalles/2022-toyota-rav4-2-5-hybrid-xle-cvt-hv/CL-AD-20450891/",
+    "image": "https://chileautos.pxcrush.net/chileautos/cars/private/7gy15fvkgheid6a70zuqy14h9.jpg?pxc_method=fitfill&pxc_bgtype=self&pxc_size=720,480",
+    "location": "Valparaíso"
+  }
+]

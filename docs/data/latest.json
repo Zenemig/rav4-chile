@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T14:09:16.654Z",
-  "elapsedMs": 19383,
+  "generatedAt": "2026-05-28T14:27:15.599Z",
+  "elapsedMs": 19356,
   "sources": [
     {
       "source": "MercadoLibre",
@@ -31,6 +31,12 @@
       "raw": 24,
       "count": 5,
       "error": null
+    },
+    {
+      "source": "Manual",
+      "raw": 2,
+      "count": 2,
+      "error": null
     }
   ],
   "listings": [
@@ -42,9 +48,45 @@
       "km": 6000,
       "year": 2026,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3789333680-toyota-rav4-25-xle-hv-at-hibrido-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=10&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-3789333680-toyota-rav4-25-xle-hv-at-hibrido-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=10&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_882885-MLC108470111026_032026-E-toyota-rav4-25-xle-hv-at-hibrido-2026.webp",
       "score": 79
+    },
+    {
+      "source": "MercadoLibre",
+      "title": "Toyota Rav4 2.5 Hybrid Hv 4x4 Cvt At 5p",
+      "description": "Toyota Rav4 2.5 Hybrid Hv 4x4 Cvt At 5p | $ | 39.990.000 | 2026 | 1.543 Km | Providencia - RM (Metropolitana)",
+      "price": 39990000,
+      "km": 1543,
+      "year": 2026,
+      "awd": true,
+      "url": "https://auto.mercadolibre.cl/MLC-4023525926-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=18&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_609715-MLC111309217410_052026-E-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026.webp",
+      "score": 75
+    },
+    {
+      "source": "MercadoLibre",
+      "title": "Toyota Rav4 Hybrid Limited 2.5 4x4",
+      "description": "Toyota Rav4 Hybrid Limited 2.5 4x4 | $ | 37.500.000 | 2025 | 5.400 Km | Vitacura - RM (Metropolitana)",
+      "price": 37500000,
+      "km": 5400,
+      "year": 2025,
+      "awd": true,
+      "url": "https://auto.mercadolibre.cl/MLC-1923806739-toyota-rav4-hybrid-limited-25-4x4-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=31&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_706888-MLC109773137244_042026-E-toyota-rav4-hybrid-limited-25-4x4-2025.webp",
+      "score": 74
+    },
+    {
+      "source": "MercadoLibre",
+      "title": "Toyota Rav4 2.5 Limited Hv At 4x4 Hibrido",
+      "description": "Toyota Rav4 2.5 Limited Hv At 4x4 Hibrido | $ | 35.390.000 | 2024 | 11.288 Km | Santiago - RM (Metropolitana)",
+      "price": 35390000,
+      "km": 11288,
+      "year": 2024,
+      "awd": true,
+      "url": "https://auto.mercadolibre.cl/MLC-3585546780-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=11&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
+      "image": "https://http2.mlstatic.com/D_Q_NP_2X_846674-MLC107395677657_022026-E-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024.webp",
+      "score": 71
     },
     {
       "source": "MercadoLibre",
@@ -54,7 +96,7 @@
       "km": 14231,
       "year": 2025,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1967120309-toyota-rav-4-hybrid-cvt-20-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=14&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-1967120309-toyota-rav-4-hybrid-cvt-20-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=14&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_812052-MLC110934264448_052026-E-toyota-rav-4-hybrid-cvt-20-2025.webp",
       "score": 71
     },
@@ -66,7 +108,7 @@
       "km": 52000,
       "year": 2026,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3885470214-toyota-rav-4-hybrid-25-aut-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=2&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-3885470214-toyota-rav-4-hybrid-25-aut-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=2&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_763860-MLC111112731711_052026-E-toyota-rav-4-hybrid-25-aut-2026.webp",
       "score": 68
     },
@@ -78,7 +120,7 @@
       "km": 27000,
       "year": 2023,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3824383988-toyota-rav4-xle-cvt-hev-25-aut-2023-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=4&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-3824383988-toyota-rav4-xle-cvt-hev-25-aut-2023-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=4&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_616472-MLC110277425795_042026-E-toyota-rav4-xle-cvt-hev-25-aut-2023.webp",
       "score": 68
     },
@@ -90,9 +132,22 @@
       "km": 27000,
       "year": 2023,
       "awd": false,
-      "url": "https://www.facebook.com/marketplace/item/906537719044162/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3Add4ba7d9-09be-4e67-98ad-ebbd847de824&__tn__=!%3AD",
-      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/659567677_2985678294954947_935031962531972922_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=1JzIF1mRod4Q7kNvwG08pDm&_nc_oc=Adqs4Mkd7pHhkvCL-IHza_RvXZZYntfK2T65hCyZruZ9QohKrY_-Dzf6rVI8LH7dJ0c&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=GrH33_w19ZWd2zJFnZFYJg&_nc_ss=7b2a8&oh=00_Af4Xzd7SSl39PvpMdyZXWKNkFR2nMBlC7tMQRiZ5F3utYA&oe=6A1E32EB",
+      "url": "https://www.facebook.com/marketplace/item/906537719044162/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A31619bb8-3221-4252-9beb-999e978cd048&__tn__=!%3AD",
+      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/659567677_2985678294954947_935031962531972922_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=1JzIF1mRod4Q7kNvwG08pDm&_nc_oc=Adqs4Mkd7pHhkvCL-IHza_RvXZZYntfK2T65hCyZruZ9QohKrY_-Dzf6rVI8LH7dJ0c&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=ofrpnGLrJXSn8qLwDL0CGA&_nc_ss=7b2a8&oh=00_Af6CeStcOJtNw3Gt4T_vFLRFk4WfYZvCmQvfjED14exnPA&oe=6A1E32EB",
       "score": 68
+    },
+    {
+      "source": "ChileAutos",
+      "title": "2023 Toyota RAV4 2.5 Hybrid Limited CVT HV 4WD",
+      "description": "Limited 4WD · OHiggins · Particular",
+      "price": 34990000,
+      "km": 19000,
+      "year": 2023,
+      "awd": true,
+      "url": "https://www.chileautos.cl/vehiculos/detalles/2023-toyota-rav4-2-5-hybrid-limited-cvt-hv-4wd/CL-AD-19621490/",
+      "image": "https://chileautos.pxcrush.net/chileautos/cars/private/21wnmdk1ydqfq5d4sijphl3jf.jpg?pxc_method=fitfill&pxc_bgtype=self&pxc_size=720,480",
+      "location": "OHiggins",
+      "score": 64
     },
     {
       "source": "MercadoLibre",
@@ -102,33 +157,9 @@
       "km": 14444,
       "year": 2025,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1883355879-toyota-rav4-xse-25-hev-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=23&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-1883355879-toyota-rav4-xse-25-hev-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=23&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_895916-MLC108858134893_032026-E-toyota-rav4-xse-25-hev-2025.webp",
       "score": 62
-    },
-    {
-      "source": "MercadoLibre",
-      "title": "Toyota Rav4 2.5 Hybrid Hv 4x4 Cvt At 5p",
-      "description": "Toyota Rav4 2.5 Hybrid Hv 4x4 Cvt At 5p | $ | 39.990.000 | 2026 | 1.543 Km | Providencia - RM (Metropolitana)",
-      "price": 39990000,
-      "km": 1543,
-      "year": 2026,
-      "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-4023525926-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=18&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_609715-MLC111309217410_052026-E-toyota-rav-4-25-hybrid-hv-4x4-cvt-at-5p-2026.webp",
-      "score": 60
-    },
-    {
-      "source": "MercadoLibre",
-      "title": "Toyota Rav4 Hybrid Limited 2.5 4x4",
-      "description": "Toyota Rav4 Hybrid Limited 2.5 4x4 | $ | 37.500.000 | 2025 | 5.400 Km | Vitacura - RM (Metropolitana)",
-      "price": 37500000,
-      "km": 5400,
-      "year": 2025,
-      "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-1923806739-toyota-rav4-hybrid-limited-25-4x4-2025-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=31&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_706888-MLC109773137244_042026-E-toyota-rav4-hybrid-limited-25-4x4-2025.webp",
-      "score": 59
     },
     {
       "source": "Facebook",
@@ -138,8 +169,8 @@
       "km": 41000,
       "year": 2022,
       "awd": false,
-      "url": "https://www.facebook.com/marketplace/item/1011796027944404/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3Add4ba7d9-09be-4e67-98ad-ebbd847de824&__tn__=!%3AD",
-      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/710613615_991537057164809_405022149739057848_n.jpg?stp=c90.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ix5D2ETmaAkQ7kNvwHJazqs&_nc_oc=AdqaIG4cF18VH1JdD8euDETzc1txB-haamm2_3Eg174cqA7hALinP9ps54DCt41NtJc&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=GrH33_w19ZWd2zJFnZFYJg&_nc_ss=7b2a8&oh=00_Af52hY02Vm1DtAY0aLYuYHfkC4D40N9fGkTinLk8rZLHTQ&oe=6A1E0A98",
+      "url": "https://www.facebook.com/marketplace/item/1011796027944404/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A31619bb8-3221-4252-9beb-999e978cd048&__tn__=!%3AD",
+      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/710613615_991537057164809_405022149739057848_n.jpg?stp=c90.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=110&ccb=1-7&_nc_sid=92e707&_nc_ohc=Ix5D2ETmaAkQ7kNvwHJazqs&_nc_oc=AdqaIG4cF18VH1JdD8euDETzc1txB-haamm2_3Eg174cqA7hALinP9ps54DCt41NtJc&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=ofrpnGLrJXSn8qLwDL0CGA&_nc_ss=7b2a8&oh=00_Af5PZM827bB3uyIl5Ee-UOfpnnry6YxXJPXJoKYjgqx3KQ&oe=6A1E0A98",
       "score": 59
     },
     {
@@ -150,8 +181,8 @@
       "km": 52000,
       "year": 2024,
       "awd": false,
-      "url": "https://www.facebook.com/marketplace/item/1560798376051071/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3Add4ba7d9-09be-4e67-98ad-ebbd847de824&__tn__=!%3AD",
-      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/673474562_952382084428431_6523526853826965362_n.jpg?stp=c90.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=Rcv60u3F4gQQ7kNvwHJFtt2&_nc_oc=AdpwDSPGuyr9EGEexzyxabHnIYYc8CdsYlSMiJD6nmkQFAwYOyVx0Q-oNfepLW5UpCE&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=GrH33_w19ZWd2zJFnZFYJg&_nc_ss=7b2a8&oh=00_Af4YWcJhS8BI9f8c73ZsHBCc-YojKnvgjD4waVkMMnhz_w&oe=6A1E0627",
+      "url": "https://www.facebook.com/marketplace/item/1560798376051071/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A31619bb8-3221-4252-9beb-999e978cd048&__tn__=!%3AD",
+      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/673474562_952382084428431_6523526853826965362_n.jpg?stp=c90.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=Rcv60u3F4gQQ7kNvwHJFtt2&_nc_oc=AdpwDSPGuyr9EGEexzyxabHnIYYc8CdsYlSMiJD6nmkQFAwYOyVx0Q-oNfepLW5UpCE&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=ofrpnGLrJXSn8qLwDL0CGA&_nc_ss=7b2a8&oh=00_Af5QXcTaVJTr3uPSHYXV0QFJa_mcMBXGhdBnRAZZ20j8Hg&oe=6A1E3E67",
       "score": 58
     },
     {
@@ -162,21 +193,9 @@
       "km": 35000,
       "year": 2021,
       "awd": false,
-      "url": "https://www.facebook.com/marketplace/item/2213080969519264/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3Add4ba7d9-09be-4e67-98ad-ebbd847de824&__tn__=!%3AD",
-      "image": "https://scontent.fscl25-1.fna.fbcdn.net/v/t39.30808-6/671671064_10162173526232015_1465743581690762400_n.jpg?stp=c256.0.1537.1537a_dst-jpg_s565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=L314Ioa5YHQQ7kNvwEnM7oq&_nc_oc=AdpnlBg4m0Oj2dFubZL8gCxv1l8owY-osxHZZoGiSaRg9inInrj6rntVx00K6J-oJXA&_nc_zt=23&_nc_ht=scontent.fscl25-1.fna&_nc_gid=GrH33_w19ZWd2zJFnZFYJg&_nc_ss=7b2a8&oh=00_Af7rT38vyF8-SK61sG5wS7byOCgRobTLrP3VQK1OaixIkA&oe=6A1E3718",
+      "url": "https://www.facebook.com/marketplace/item/2213080969519264/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A31619bb8-3221-4252-9beb-999e978cd048&__tn__=!%3AD",
+      "image": "https://scontent.fscl25-1.fna.fbcdn.net/v/t39.30808-6/671671064_10162173526232015_1465743581690762400_n.jpg?stp=c256.0.1537.1537a_dst-jpg_s565x565_tt6&_nc_cat=101&ccb=1-7&_nc_sid=454cf4&_nc_ohc=L314Ioa5YHQQ7kNvwEnM7oq&_nc_oc=AdpnlBg4m0Oj2dFubZL8gCxv1l8owY-osxHZZoGiSaRg9inInrj6rntVx00K6J-oJXA&_nc_zt=23&_nc_ht=scontent.fscl25-1.fna&_nc_gid=ofrpnGLrJXSn8qLwDL0CGA&_nc_ss=7b2a8&oh=00_Af60XGZ_ze8ZBNg1NMZbOso7u3Xvq8vwxraOW08wc2sUTA&oe=6A1E3718",
       "score": 57
-    },
-    {
-      "source": "MercadoLibre",
-      "title": "Toyota Rav4 2.5 Limited Hv At 4x4 Hibrido",
-      "description": "Toyota Rav4 2.5 Limited Hv At 4x4 Hibrido | $ | 35.390.000 | 2024 | 11.288 Km | Santiago - RM (Metropolitana)",
-      "price": 35390000,
-      "km": 11288,
-      "year": 2024,
-      "awd": true,
-      "url": "https://auto.mercadolibre.cl/MLC-3585546780-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=11&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
-      "image": "https://http2.mlstatic.com/D_Q_NP_2X_846674-MLC107395677657_022026-E-toyota-rav4-25-limited-hv-at-4x4-hibrido-2024.webp",
-      "score": 56
     },
     {
       "source": "MercadoLibre",
@@ -186,7 +205,7 @@
       "km": 52000,
       "year": 2024,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3897460872-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=33&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-3897460872-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=33&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_707904-MLC110561359086_052026-E-toyota-rav4-hybrid-25-automatica-solo-52000-km-2024.webp",
       "score": 55
     },
@@ -198,7 +217,7 @@
       "km": 37865,
       "year": 2022,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-1960127439-toyota-rav4-25-cvt-hibrida-2022-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=5&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-1960127439-toyota-rav4-25-cvt-hibrida-2022-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=5&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_881804-MLC111313878150_052026-E-toyota-rav4-25-cvt-hibrida-2022.webp",
       "score": 54
     },
@@ -210,9 +229,22 @@
       "km": 47000,
       "year": 2021,
       "awd": false,
-      "url": "https://www.facebook.com/marketplace/item/2210122716506187/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3Add4ba7d9-09be-4e67-98ad-ebbd847de824&__tn__=!%3AD",
-      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/705921215_1631240707956165_7341717911299551744_n.jpg?stp=c210.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=lVl2C-Sdpv4Q7kNvwGKjHt0&_nc_oc=AdoCtybufSlnl9YDEdX5D0G7GKW9VsVta7cxde-IdpnmBZR30aDI6G7JAPJ6vsyfla8&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=GrH33_w19ZWd2zJFnZFYJg&_nc_ss=7b2a8&oh=00_Af6CWWw9aoN71d_MSNNEFO5bl3HnYbEQFi1eUjzW5ViDfw&oe=6A1E0905",
+      "url": "https://www.facebook.com/marketplace/item/2210122716506187/?ref=search&referral_code=null&referral_story_type=post&tracking=browse_serp%3A31619bb8-3221-4252-9beb-999e978cd048&__tn__=!%3AD",
+      "image": "https://scontent.fscl29-1.fna.fbcdn.net/v/t39.84726-6/705921215_1631240707956165_7341717911299551744_n.jpg?stp=c210.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=100&ccb=1-7&_nc_sid=92e707&_nc_ohc=lVl2C-Sdpv4Q7kNvwGKjHt0&_nc_oc=AdoCtybufSlnl9YDEdX5D0G7GKW9VsVta7cxde-IdpnmBZR30aDI6G7JAPJ6vsyfla8&_nc_zt=14&_nc_ht=scontent.fscl29-1.fna&_nc_gid=ofrpnGLrJXSn8qLwDL0CGA&_nc_ss=7b2a8&oh=00_Af44q3N4PLElJm69as2LDyoHDNMu6tgPEyGgfiGDtDHE8w&oe=6A1E0905",
       "score": 50
+    },
+    {
+      "source": "ChileAutos",
+      "title": "2022 Toyota RAV4 2.5 Hybrid XLE CVT HV",
+      "description": "XLE Hybrid · Valparaíso · Particular",
+      "price": 23990000,
+      "km": 70000,
+      "year": 2022,
+      "awd": false,
+      "url": "https://www.chileautos.cl/vehiculos/detalles/2022-toyota-rav4-2-5-hybrid-xle-cvt-hv/CL-AD-20450891/",
+      "image": "https://chileautos.pxcrush.net/chileautos/cars/private/7gy15fvkgheid6a70zuqy14h9.jpg?pxc_method=fitfill&pxc_bgtype=self&pxc_size=720,480",
+      "location": "Valparaíso",
+      "score": 49
     },
     {
       "source": "MercadoLibre",
@@ -222,7 +254,7 @@
       "km": 87100,
       "year": 2020,
       "awd": false,
-      "url": "https://auto.mercadolibre.cl/MLC-3723253220-toyota-rav4-25-hybrid-xle-cvt-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=44&type=item&tracking_id=627fb6a6-b958-42af-9451-4a28f97b5166",
+      "url": "https://auto.mercadolibre.cl/MLC-3723253220-toyota-rav4-25-hybrid-xle-cvt-_JM#polycard_client=search-desktop&be_origin=backend&search_layout=grid&position=44&type=item&tracking_id=d5bc4dda-a18f-4970-9a3a-8f1d9e25b51c",
       "image": "https://http2.mlstatic.com/D_Q_NP_2X_977214-MLC107568636686_032026-E-toyota-rav4-25-hybrid-xle-cvt.webp",
       "score": 40
     }
